@@ -17,7 +17,6 @@ Arbitrary Number of Names
 The function can handle an arbitrary number of names as input. If the name parameter is an array of multiple names, all names must be greeted. For example, if the input parameter is [‘Alex’,‘Arsene’,‘Jose’,‘Zidane’], the function should return the string: “Hello, Alex, Arsene, Jose, Zidane”.
 
 
-
 # Project
 
 This project consists of two main components:
@@ -34,3 +33,11 @@ To facilitate this, it was necessary to install both `babel-core` and `babel-jes
 ## Running the Tests
 
 To execute the tests, simply type `npm test` into your terminal. All test cases should pass successfully.
+
+
+
+# Screenshots
+
+![greet.js code](./screenshots/greet_js.png)
+![greet.test.js code](./screenshots/greet_test_js.png)
+
