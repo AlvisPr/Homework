@@ -1,4 +1,3 @@
-MIT ASSIGNMENT
 
 # Project Overview
 
